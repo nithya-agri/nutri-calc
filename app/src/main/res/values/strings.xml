@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NutriCalc</string>
+    <string name="loading_data">Loading data...</string>
+</resources>
